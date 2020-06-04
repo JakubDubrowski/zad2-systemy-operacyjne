@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "funckje.c"
+#include "funkcje.c"
 
 int main(){
 	int bok;
